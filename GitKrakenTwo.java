@@ -4,5 +4,6 @@ public class GitKrakenTwo {
 
 		long duration = System.nanoTime()-startTime;
 		System.out.println("Duration: "+duration/1000000000.0+" seconds");
+		System.out.println("Completed");
 	}
 }
